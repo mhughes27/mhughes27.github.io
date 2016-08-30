@@ -1,6 +1,6 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
+title:              Matt Hughes
+bio:                'Some sweet quote'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -39,12 +39,12 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            username
-facebook:           username
+# facebook:           username
 github:             username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          username
 #xing:              username
-instagram:          username
+# instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
