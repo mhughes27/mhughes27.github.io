@@ -1,3 +1,4 @@
+---
 layout: post
 title: "A Personal Dictionary"
 date: 2016-07-08
@@ -5,6 +6,7 @@ excerpt: "A beginner's guide to common jargon."
 tags: [client, HTTP, pre-processor, query string parameters, request, response, server]
 feature: http://i.imgur.com/Ds6S7lJ.png
 comments: false
+---
 
 Client
 
